@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-1\Hello Softuni\bin\Debug\net8.0\Hello Softuni.exe
+C:\Users\User\source\repos\Lab-1\Hello Softuni\bin\Debug\net8.0\Hello Softuni.deps.json
+C:\Users\User\source\repos\Lab-1\Hello Softuni\bin\Debug\net8.0\Hello Softuni.runtimeconfig.json
+C:\Users\User\source\repos\Lab-1\Hello Softuni\bin\Debug\net8.0\Hello Softuni.dll
+C:\Users\User\source\repos\Lab-1\Hello Softuni\bin\Debug\net8.0\Hello Softuni.pdb
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.dll
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\refint\Hello Softuni.dll
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.pdb
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\Hello Softuni.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-1\Hello Softuni\obj\Debug\net8.0\ref\Hello Softuni.dll
