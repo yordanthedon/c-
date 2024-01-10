@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-1\4-Person-Info\bin\Debug\net8.0\4-Person-Info.exe
+C:\Users\User\source\repos\Lab-1\4-Person-Info\bin\Debug\net8.0\4-Person-Info.deps.json
+C:\Users\User\source\repos\Lab-1\4-Person-Info\bin\Debug\net8.0\4-Person-Info.runtimeconfig.json
+C:\Users\User\source\repos\Lab-1\4-Person-Info\bin\Debug\net8.0\4-Person-Info.dll
+C:\Users\User\source\repos\Lab-1\4-Person-Info\bin\Debug\net8.0\4-Person-Info.pdb
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.dll
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\refint\4-Person-Info.dll
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.pdb
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\4-Person-Info.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-1\4-Person-Info\obj\Debug\net8.0\ref\4-Person-Info.dll
