@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\bin\Debug\net6.0\Inches-to-Centimeters-Converter.exe
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\bin\Debug\net6.0\Inches-to-Centimeters-Converter.deps.json
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\bin\Debug\net6.0\Inches-to-Centimeters-Converter.runtimeconfig.json
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\bin\Debug\net6.0\Inches-to-Centimeters-Converter.dll
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\bin\Debug\net6.0\Inches-to-Centimeters-Converter.pdb
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.dll
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\refint\Inches-to-Centimeters-Converter.dll
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.pdb
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\Inches-to-Centimeters-Converter.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-2\Inches-to-Centimeters-Converter\obj\Debug\net6.0\ref\Inches-to-Centimeters-Converter.dll
