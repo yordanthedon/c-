@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\bin\Debug\net6.0\Circle-Area-and-Perimeter.exe
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\bin\Debug\net6.0\Circle-Area-and-Perimeter.deps.json
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\bin\Debug\net6.0\Circle-Area-and-Perimeter.runtimeconfig.json
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\bin\Debug\net6.0\Circle-Area-and-Perimeter.dll
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\bin\Debug\net6.0\Circle-Area-and-Perimeter.pdb
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.dll
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\refint\Circle-Area-and-Perimeter.dll
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.pdb
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\Circle-Area-and-Perimeter.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-3\Circle-Area-and-Perimeter\obj\Debug\net6.0\ref\Circle-Area-and-Perimeter.dll

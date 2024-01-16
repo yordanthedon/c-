@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\bin\Debug\net6.0\Convert-Celsius-to-Fahrenheit.exe
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\bin\Debug\net6.0\Convert-Celsius-to-Fahrenheit.deps.json
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\bin\Debug\net6.0\Convert-Celsius-to-Fahrenheit.runtimeconfig.json
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\bin\Debug\net6.0\Convert-Celsius-to-Fahrenheit.dll
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\bin\Debug\net6.0\Convert-Celsius-to-Fahrenheit.pdb
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.dll
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\refint\Convert-Celsius-to-Fahrenheit.dll
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.pdb
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\Convert-Celsius-to-Fahrenheit.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-3\Convert-Celsius-to-Fahrenheit\obj\Debug\net6.0\ref\Convert-Celsius-to-Fahrenheit.dll
