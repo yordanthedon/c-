@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\bin\Debug\net6.0\Mandatory-Literature.exe
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\bin\Debug\net6.0\Mandatory-Literature.deps.json
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\bin\Debug\net6.0\Mandatory-Literature.runtimeconfig.json
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\bin\Debug\net6.0\Mandatory-Literature.dll
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\bin\Debug\net6.0\Mandatory-Literature.pdb
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.dll
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\refint\Mandatory-Literature.dll
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.pdb
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\Mandatory-Literature.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-4\Mandatory-Literature\obj\Debug\net6.0\ref\Mandatory-Literature.dll
