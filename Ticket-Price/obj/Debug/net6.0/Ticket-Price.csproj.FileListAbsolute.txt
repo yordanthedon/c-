@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-6\Ticket-Price\bin\Debug\net6.0\Ticket-Price.exe
+C:\Users\User\source\repos\Lab-6\Ticket-Price\bin\Debug\net6.0\Ticket-Price.deps.json
+C:\Users\User\source\repos\Lab-6\Ticket-Price\bin\Debug\net6.0\Ticket-Price.runtimeconfig.json
+C:\Users\User\source\repos\Lab-6\Ticket-Price\bin\Debug\net6.0\Ticket-Price.dll
+C:\Users\User\source\repos\Lab-6\Ticket-Price\bin\Debug\net6.0\Ticket-Price.pdb
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.dll
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\refint\Ticket-Price.dll
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.pdb
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\Ticket-Price.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-6\Ticket-Price\obj\Debug\net6.0\ref\Ticket-Price.dll
