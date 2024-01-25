@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-7\Marketplace\bin\Debug\net6.0\Marketplace.exe
+C:\Users\User\source\repos\Lab-7\Marketplace\bin\Debug\net6.0\Marketplace.deps.json
+C:\Users\User\source\repos\Lab-7\Marketplace\bin\Debug\net6.0\Marketplace.runtimeconfig.json
+C:\Users\User\source\repos\Lab-7\Marketplace\bin\Debug\net6.0\Marketplace.dll
+C:\Users\User\source\repos\Lab-7\Marketplace\bin\Debug\net6.0\Marketplace.pdb
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.dll
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\refint\Marketplace.dll
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.pdb
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\Marketplace.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-7\Marketplace\obj\Debug\net6.0\ref\Marketplace.dll
