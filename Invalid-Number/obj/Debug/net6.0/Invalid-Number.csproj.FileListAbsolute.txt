@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-7\Invalid-Number\bin\Debug\net6.0\Invalid-Number.exe
+C:\Users\User\source\repos\Lab-7\Invalid-Number\bin\Debug\net6.0\Invalid-Number.deps.json
+C:\Users\User\source\repos\Lab-7\Invalid-Number\bin\Debug\net6.0\Invalid-Number.runtimeconfig.json
+C:\Users\User\source\repos\Lab-7\Invalid-Number\bin\Debug\net6.0\Invalid-Number.dll
+C:\Users\User\source\repos\Lab-7\Invalid-Number\bin\Debug\net6.0\Invalid-Number.pdb
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.dll
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\refint\Invalid-Number.dll
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.pdb
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\Invalid-Number.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-7\Invalid-Number\obj\Debug\net6.0\ref\Invalid-Number.dll
