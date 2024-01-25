@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\bin\Debug\net6.0\Biggest-of-Five-Numbers.exe
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\bin\Debug\net6.0\Biggest-of-Five-Numbers.deps.json
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\bin\Debug\net6.0\Biggest-of-Five-Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\bin\Debug\net6.0\Biggest-of-Five-Numbers.dll
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\bin\Debug\net6.0\Biggest-of-Five-Numbers.pdb
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.dll
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\refint\Biggest-of-Five-Numbers.dll
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.pdb
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\Biggest-of-Five-Numbers.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-8\Biggest-of-Five-Numbers\obj\Debug\net6.0\ref\Biggest-of-Five-Numbers.dll
