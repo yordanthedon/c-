@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\bin\Debug\net6.0\Division-to-2-3-and-4.exe
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\bin\Debug\net6.0\Division-to-2-3-and-4.deps.json
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\bin\Debug\net6.0\Division-to-2-3-and-4.runtimeconfig.json
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\bin\Debug\net6.0\Division-to-2-3-and-4.dll
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\bin\Debug\net6.0\Division-to-2-3-and-4.pdb
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.dll
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\refint\Division-to-2-3-and-4.dll
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.pdb
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\Division-to-2-3-and-4.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-11\Division-to-2-3-and-4\obj\Debug\net6.0\ref\Division-to-2-3-and-4.dll
