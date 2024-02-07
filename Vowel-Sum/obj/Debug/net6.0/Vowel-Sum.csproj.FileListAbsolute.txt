@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\bin\Debug\net6.0\Vowel-Sum.exe
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\bin\Debug\net6.0\Vowel-Sum.deps.json
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\bin\Debug\net6.0\Vowel-Sum.runtimeconfig.json
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\bin\Debug\net6.0\Vowel-Sum.dll
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\bin\Debug\net6.0\Vowel-Sum.pdb
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.dll
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\refint\Vowel-Sum.dll
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.pdb
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\Vowel-Sum.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-11\Vowel-Sum\obj\Debug\net6.0\ref\Vowel-Sum.dll
