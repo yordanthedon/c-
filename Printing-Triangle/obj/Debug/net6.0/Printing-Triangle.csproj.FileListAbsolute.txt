@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\bin\Debug\net6.0\Printing-Triangle.exe
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\bin\Debug\net6.0\Printing-Triangle.deps.json
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\bin\Debug\net6.0\Printing-Triangle.runtimeconfig.json
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\bin\Debug\net6.0\Printing-Triangle.dll
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\bin\Debug\net6.0\Printing-Triangle.pdb
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.dll
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\refint\Printing-Triangle.dll
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.pdb
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\Printing-Triangle.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-13\Printing-Triangle\obj\Debug\net6.0\ref\Printing-Triangle.dll
