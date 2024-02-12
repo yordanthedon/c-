@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-15\Day-oF-week\bin\Debug\net6.0\Day-oF-week.exe
+C:\Users\User\source\repos\Lab-15\Day-oF-week\bin\Debug\net6.0\Day-oF-week.deps.json
+C:\Users\User\source\repos\Lab-15\Day-oF-week\bin\Debug\net6.0\Day-oF-week.runtimeconfig.json
+C:\Users\User\source\repos\Lab-15\Day-oF-week\bin\Debug\net6.0\Day-oF-week.dll
+C:\Users\User\source\repos\Lab-15\Day-oF-week\bin\Debug\net6.0\Day-oF-week.pdb
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.dll
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\refint\Day-oF-week.dll
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.pdb
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\Day-oF-week.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-15\Day-oF-week\obj\Debug\net6.0\ref\Day-oF-week.dll
