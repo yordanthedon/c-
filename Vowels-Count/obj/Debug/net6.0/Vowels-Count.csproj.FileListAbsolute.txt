@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-14\Vowels-Count\bin\Debug\net6.0\Vowels-Count.exe
+C:\Users\User\source\repos\Lab-14\Vowels-Count\bin\Debug\net6.0\Vowels-Count.deps.json
+C:\Users\User\source\repos\Lab-14\Vowels-Count\bin\Debug\net6.0\Vowels-Count.runtimeconfig.json
+C:\Users\User\source\repos\Lab-14\Vowels-Count\bin\Debug\net6.0\Vowels-Count.dll
+C:\Users\User\source\repos\Lab-14\Vowels-Count\bin\Debug\net6.0\Vowels-Count.pdb
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.dll
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\refint\Vowels-Count.dll
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.pdb
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\Vowels-Count.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-14\Vowels-Count\obj\Debug\net6.0\ref\Vowels-Count.dll
