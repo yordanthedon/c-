@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Lab-17\Gauss'-Trick\obj\Debug\net6.0\Gauss'-Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-17\Gauss'-Trick\obj\Debug\net6.0\Gauss'-Trick.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-17\Gauss'-Trick\obj\Debug\net6.0\Gauss'-Trick.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-17\Gauss'-Trick\obj\Debug\net6.0\Gauss'-Trick.csproj.CoreCompileInputs.cache
