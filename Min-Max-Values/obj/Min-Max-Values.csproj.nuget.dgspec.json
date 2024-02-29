@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Lab-19\\Magic-Numbers\\Magic-Numbers.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Lab-19\\Min-Max-Values\\Min-Max-Values.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Lab-19\\Magic-Numbers\\Magic-Numbers.csproj": {
+    "C:\\Users\\User\\source\\repos\\Lab-19\\Min-Max-Values\\Min-Max-Values.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lab-19\\Magic-Numbers\\Magic-Numbers.csproj",
-        "projectName": "Magic-Numbers",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Lab-19\\Magic-Numbers\\Magic-Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lab-19\\Min-Max-Values\\Min-Max-Values.csproj",
+        "projectName": "Min-Max-Values",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Lab-19\\Min-Max-Values\\Min-Max-Values.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Lab-19\\Magic-Numbers\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Lab-19\\Min-Max-Values\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

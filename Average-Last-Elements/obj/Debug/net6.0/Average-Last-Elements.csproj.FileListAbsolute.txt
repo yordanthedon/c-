@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\bin\Debug\net6.0\Average-Last-Elements.exe
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\bin\Debug\net6.0\Average-Last-Elements.deps.json
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\bin\Debug\net6.0\Average-Last-Elements.runtimeconfig.json
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\bin\Debug\net6.0\Average-Last-Elements.dll
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\bin\Debug\net6.0\Average-Last-Elements.pdb
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.dll
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\refint\Average-Last-Elements.dll
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.pdb
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\Average-Last-Elements.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab-20\Average-Last-Elements\obj\Debug\net6.0\ref\Average-Last-Elements.dll

@@ -1,16 +1,33 @@
 ﻿int n = int.Parse(Console.ReadLine());
 
-for (int hundreds = 1; hundreds <= 9; hundreds++)
+bool isNoMacigNum = true;
+
+for  (int i = 1; i <= n; i++)
 {
-    for (int tens = 0; tens <= 9; tens++)
+    int currentNum = i;
+    int sumDigits = 0;
+    bool isPrimeDigit = true;
+
+    while (currentNum > 0)
     {
-        for (int singles = 0; singles <= 9; singles++)
+        int digits = currentNum % 10;
+        currentNum /= 10;
+
+        sumDigits += digits;
+
+        if (digits != 2 && digits != 3 && digits != 5 && digits != 7)
         {
-            int digitsProduct = hundreds * tens * singles;
-            if (digitsProduct == n)
-            {
-                Console.Write($"{hundreds}{tens}{singles} ");
-            }
+            isPrimeDigit = false;
         }
     }
+
+    if (isPrimeDigit && sumDigits % 2 == 0)
+    {
+        Console.Write(i + " ");
+        isNoMacigNum = false;
+    }
 }
+if (isNoMacigNum)
+{
+    Console.WriteLine("no");
+}    
