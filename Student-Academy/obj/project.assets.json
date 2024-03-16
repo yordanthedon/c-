@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\Orders.csproj",
-      "projectName": "Orders",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\Orders.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lab-24\\Student-Academy\\Student-Academy.csproj",
+      "projectName": "Student-Academy",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Lab-24\\Student-Academy\\Student-Academy.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Lab-24\\Student-Academy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

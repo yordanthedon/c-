@@ -1,27 +1,34 @@
-﻿string prod = Console.ReadLine();
-int quan = int.Parse(Console.ReadLine());
+﻿string input = Console.ReadLine();
 
-Console.WriteLine($"{TotalOrders(prod, quan):F2}");
+var products = new Dictionary<string, List<double>>();
 
-static double TotalOrders(string p, int q)
+while (input != "buy")
 {
-    double totalSum = 0;
+    string[] inputArray = input.Split();
+    string product = inputArray[0];
+    double price = double.Parse(inputArray[1]);
+    double quantity = double.Parse(inputArray[2]);
 
-    if (p == "coffee")
+    if (!products.ContainsKey(product))
     {
-        totalSum = q * 1.50;
+        products.Add(product, new List<double>());
+        products[product].Add(price);
+        products[product].Add(quantity);
     }
-    else if (p == "water")
+    else
     {
-        totalSum = q * 1.00;
+        products[product][0] = price;
+        products[product][1] += quantity;
     }
-    else if (p == "coke")
-    {
-        totalSum = q * 1.40;
-    }
-    else if (p == "snacks")
-    {
-        totalSum = q * 2.00;
-    }
-    return totalSum;
+    input = Console.ReadLine();
+}
+
+foreach (var pair in products)
+{
+    string product = pair.Key;
+    double price = pair.Value[0];
+    double quantity = pair.Value[1];
+    double amount = price * quantity;
+
+    Console.WriteLine($"{product} -> {amount:F2}");
 }

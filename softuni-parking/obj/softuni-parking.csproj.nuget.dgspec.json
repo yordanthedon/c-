@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\Orders.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Lab-24\\softuni-parking\\softuni-parking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\Orders.csproj": {
+    "C:\\Users\\User\\source\\repos\\Lab-24\\softuni-parking\\softuni-parking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\Orders.csproj",
-        "projectName": "Orders",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\Orders.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lab-24\\softuni-parking\\softuni-parking.csproj",
+        "projectName": "softuni-parking",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Lab-24\\softuni-parking\\softuni-parking.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Lab-24\\Orders\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Lab-24\\softuni-parking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
